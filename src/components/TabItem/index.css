@@ -1,0 +1,23 @@
+.each-tab-list-item {
+  border-bottom-width: 2px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-color: #dfe2e5;
+  border-style: solid;
+  width: 140px;
+}
+
+.each-tab-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 24px;
+  color: #7b8794;
+}
+
+.highlighted-tab {
+  border-color: blue !important;
+  color: blue;
+}
